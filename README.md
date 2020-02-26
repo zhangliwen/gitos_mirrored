@@ -7,7 +7,6 @@
 project_service.rb
 project_watchers
 event.tag?
-
 ```
 
 
