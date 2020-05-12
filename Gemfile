@@ -7,7 +7,6 @@ ruby '2.4.1'
 gem 'rails', '~> 5.2.2'
 
 # gem 'pg', '>= 0.18', '< 2.0'
-gem "mysql2", group: :mysql
 
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
